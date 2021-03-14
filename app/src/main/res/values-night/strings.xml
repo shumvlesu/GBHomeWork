@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Добрый вечер</string>
+    <string name="introduce_yourself">Представьтесь</string>
+    <string name="button">Выполнить действие</string>
+    <string name="checkbox">Переключатель который ничего не делает :)</string>
+    <string name="toggle_button">☻</string>
+    <string name="switch1">Переключатель</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GBHomeWork</string>
+    <string name="Hello">Привет</string>
+    <string name="introduce_yourself">Представьтесь</string>
+    <string name="button">Выполнить действие</string>
+    <string name="checkbox">Переключатель который ничего не делает :)</string>
+    <string name="toggle_button">Нажми меня</string>
+    <string name="switch1">Переключатель</string>
+</resources>
